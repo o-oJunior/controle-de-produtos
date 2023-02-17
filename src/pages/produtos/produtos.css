@@ -1,0 +1,13 @@
+.produtos {
+    margin-top: 80px;
+}
+
+table a {
+    color: #121212
+}
+
+@media (width < 526px) {
+    .produtos {
+        width: 33rem;
+    }
+}
