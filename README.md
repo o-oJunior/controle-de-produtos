@@ -18,7 +18,7 @@ NodeJS: Instalar as dependências do projeto;
 
 ### Objetivo
 
-O objetivo do projeto é facilitar o gerenciamento dos produtos, não depender apenas de arquivo excel, inibir códigos repetidos, evitar produtos que esteja abaixo do estoque minimo passe despercebido. Esse projeto foi pensando exclusivamente no cliente, tornar o processo de controle de produtos seguro, dar o suporte de conversão para Excel e download em PDF;
+O objetivo do projeto é facilitar o gerenciamento dos produtos, não depender apenas de arquivo excel, inibir códigos repetidos, evitar produto que esteja abaixo do estoque minimo passe despercebido. Esse projeto foi pensando exclusivamente no cliente, tornar o processo de controle de produtos seguro, dar o suporte de conversão para Excel e download em PDF;
 
 ### Passo-a-passo
 
