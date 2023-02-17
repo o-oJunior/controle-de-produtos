@@ -9,11 +9,17 @@ Após a instalação uma pasta 'node_modules' é gerada, nessa pasta está armaz
 ### Ferramentas utilizadas
 
 JavaScript: linguagem de programação;
+
 React: É uma biblioteca utilizada para renderizar o site;
+
 React Hooks: Controlar os componentes através do estado/ciclo de vida;
+
 Bootstrap: Um framework utilizado para definir os estilos da página de forma responsiva;
+
 API: Consultar os nomes das cidades e as siglas dos estados;
+
 Firebase (Google): No projeto é usado o Firestore, um banco de dados não relacional e em tempo real para armazenar os produtos cadastrados;
+
 NodeJS: Instalar as dependências do projeto;
 
 ### Objetivo
