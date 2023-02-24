@@ -6,6 +6,8 @@ Acesse o terminal e execute o comando 'npm i' ou 'npm install', para instalar as
 
 Após a instalação uma pasta 'node_modules' é gerada, nessa pasta está armazenado as dependências;
 
+Para inicializar, execute o comando 'npm start';
+
 ### Ferramentas utilizadas
 
 JavaScript: linguagem de programação;
