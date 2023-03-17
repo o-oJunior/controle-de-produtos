@@ -25,7 +25,7 @@ function ListarProdutos({ produtos, deletarProduto }) {
                                 <td className="text">{produto.nome}</td>
                                 <td className="text">
                                     {produto.qntd}
-                                    {produto.qntd < produto.minimo && <i className="fa-solid fa-circle-exclamation ms-2 text-warning"></i>}
+                                    {Number(produto.qntd) < Number(produto.minimo) && <i className="fa-solid fa-circle-exclamation ms-2 text-warning"></i>}
                                 </td>
                                 <td className="text">{produto.minimo}</td>
                                 <td className="text">{produto.tipo}</td>
